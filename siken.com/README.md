@@ -15,7 +15,7 @@
 
 ### キーボードショートカット
 
-Download: [keyboard-shortcut.user.js](./keyboard-shortcut.user.js)
+Download: [keyboard-shortcut.user.js](https://github.com/ozelotdev/userscript/raw/main/siken.com/keyboard-shortcut.user.js)
 
 | キー  | 機能                |
 | ----- | ------------------- |
@@ -31,7 +31,7 @@ Download: [keyboard-shortcut.user.js](./keyboard-shortcut.user.js)
 
 ![禅モード](./zen-mode.png)
 
-Download: [zen-mode.user.js](./zen-mode.user.js)
+Download: [zen-mode.user.js](https://github.com/ozelotdev/userscript/raw/main/siken.com/zen-mode.user.js)
 
 - 過去問道場以外のコンテンツを非表示にします
 - 画面を最大化します

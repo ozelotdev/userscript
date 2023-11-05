@@ -2,7 +2,7 @@
 
 ### キーボードショートカット
 
-Download: [keyboard-shortcut.user.js](./keyboard-shortcut.user.js)
+Download: [keyboard-shortcut.user.js](https://github.com/ozelotdev/userscript/raw/main/musasi.jp/keyboard-shortcut.user.js)
 
 | キー  | 機能                  |
 | ----- | --------------------- |
