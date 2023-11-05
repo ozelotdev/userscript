@@ -29,9 +29,9 @@ Download: [keyboard-shortcut.user.js](https://github.com/ozelotdev/userscript/ra
 
 ### 禅モード
 
-![禅モード](./zen-mode.png)
-
 Download: [zen-mode.user.js](https://github.com/ozelotdev/userscript/raw/main/siken.com/zen-mode.user.js)
+
+![禅モード](./zen-mode.png)
 
 - 過去問道場以外のコンテンツを非表示にします
 - 画面を最大化します
