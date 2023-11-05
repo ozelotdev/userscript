@@ -3,7 +3,7 @@
 // @version 1.0
 // @author ozelotdev
 // @homepageURL https://github.com/ozelotdev/userscript/
-// @downloadURL https://github.com/ozelotdev/userscript/raw/main/siken.com/keyboard-shortcut.user.js
+// @downloadURL https://github.com/ozelotdev/userscript/raw/main/siken.com/zen-mode.user.js
 // @match https://www.itpassportsiken.com/ipkakomon.php
 // @match https://www.itpassportsiken.com/kakomon/*/*.html
 // @match https://www.sg-siken.com/sgkakomon.php
