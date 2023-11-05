@@ -26,3 +26,12 @@ Download: [keyboard-shortcut.user.js](./keyboard-shortcut.user.js)
 | Enter | 「次の問題」 を選択 |
 
 ※誤操作防止のため、回答を選択するまでEnterキーは動作しません
+
+### 禅モード
+
+![禅モード](./zen-mode.png)
+
+Download: [zen-mode.user.js](./zen-mode.user.js)
+
+- 過去問道場以外のコンテンツを非表示にします
+- 画面を最大化します
